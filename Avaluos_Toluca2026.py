@@ -8,6 +8,8 @@ housing_toluca = pd.read_csv("avaluos_toluca_actualizado2026.csv")
 
 st.write("# Valuación inmobiliaria — Toluca")
 
+st.image("casatol.jfif", caption="Valuación inmobiliaria en Toluca")
+
 st.header("Datos de la vivienda")
 
 def user_input_features():
