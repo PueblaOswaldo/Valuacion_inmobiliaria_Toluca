@@ -1,0 +1,217 @@
+﻿id_vivienda,delegacion,precio,superficie_terreno_m2,superficie_construccion_m2,recamaras,banos,estacionamientos,niveles,antiguedad_anios,estado_conservacion,uso_suelo,accesibilidad_vial,distancia_centro_km,distancia_vialidad_principal_km
+VIV-118,Santa Ana Tlapaltitlán,1837000,152,199,3,2,2,2,15,Regular,Habitacional,Media,5.515,2.448
+VIV-161,Capultitlán,1849000,207,274,4,3,1,2,14,Muy bueno,Habitacional,Media,3.861,0.923
+VIV-175,Ocho Cedros,1592000,145,228,4,3,1,2,10,Bueno,Habitacional,Baja,3.06,0.617
+VIV-197,San Pablo Autopan,1758000,239,305,5,3,2,2,7,Muy bueno,Habitacional,Media,11.509,1.277
+VIV-043,Nueva Oxtotitlán,2271000,139,164,3,2,1,3,10,Muy bueno,Habitacional,Baja,5.323,1.209
+VIV-097,San Felipe Tlalmimilolpan,1584000,197,241,4,2,1,2,12,Bueno,Habitacional con comercio,Baja,7.686,3.686
+VIV-058,Cacalomacán,1498000,201,300,6,4,2,2,10,Regular,Habitacional,Media,8.705,1.485
+VIV-020,San Lorenzo Tepaltitlán,2039000,167,190,3,2,2,2,6,Bueno,Habitacional,Alta,7.585,0.412
+VIV-079,Santa María de las Rosas,2658000,169,220,3,1,2,2,11,Bueno,Habitacional con comercio,Baja,2.569,0.242
+VIV-004,San Lorenzo Tepaltitlán,2033000,180,190,3,2,2,2,9,Regular,Habitacional,Alta,7.342,0.303
+VIV-095,San Felipe Tlalmimilolpan,1320000,149,159,2,2,1,2,11,Regular,Habitacional,Baja,7.875,3.215
+VIV-176,Ocho Cedros,1722000,153,242,4,3,2,2,9,Regular,Habitacional con comercio,Alta,3.211,0.179
+VIV-094,San Felipe Tlalmimilolpan,1545000,168,219,4,2,2,2,11,Bueno,Habitacional,Alta,8.456,1.23
+VIV-210,San Pablo Autopan,1677000,255,334,5,4,3,2,8,Muy bueno,Habitacional con comercio,Baja,11.585,5.534
+VIV-127,Santa Ana Tlapaltitlán,1945000,152,179,3,2,2,2,10,Bueno,Habitacional,Baja,4.421,1.499
+VIV-177,Ocho Cedros,1439000,134,150,3,2,1,2,10,Regular,Habitacional con comercio,Baja,2.572,1.098
+VIV-101,San Cayetano Morelos,1109000,268,272,4,3,2,2,9,Bueno,Habitacional,Media,17.221,0.686
+VIV-183,Santiago Tlacotepec,1229000,328,302,5,4,3,1,12,Bueno,Habitacional,Alta,8.754,3.458
+VIV-056,Cacalomacán,1584000,221,300,6,4,2,3,6,Bueno,Habitacional,Baja,9.428,1.987
+VIV-206,San Pablo Autopan,1650000,237,255,5,3,2,2,10,Bueno,Habitacional con comercio,Media,11.967,3.201
+VIV-088,San Felipe Tlalmimilolpan,1461000,148,191,3,2,1,2,9,Regular,Habitacional,Media,7.923,2.493
+VIV-179,Ocho Cedros,1534000,159,233,4,2,1,2,9,Regular,Habitacional,Baja,3.516,0.831
+VIV-190,San Pablo Autopan,1508000,206,227,4,2,2,2,8,Malo,Habitacional con comercio,Media,11.523,2.054
+VIV-109,San Cayetano Morelos,1104000,232,320,5,4,2,3,8,Regular,Habitacional con comercio,Media,18.051,1.296
+VIV-051,Nueva Oxtotitlán,2576000,159,218,3,2,2,2,11,Regular,Habitacional,Alta,5.013,0.25
+VIV-075,Santa María de las Rosas,2714000,147,179,3,2,2,2,9,Bueno,Habitacional,Alta,2.446,0.1
+VIV-029,San Lorenzo Tepaltitlán,1883000,137,190,3,2,1,2,8,Regular,Habitacional,Media,7.722,1.202
+VIV-152,Capultitlán,1900000,213,255,4,3,1,2,14,Regular,Habitacional,Media,4.222,0.946
+VIV-128,Santa Ana Tlapaltitlán,2870000,188,300,4,3,2,3,12,Bueno,Habitacional,Alta,3.485,0.19
+VIV-032,San Lorenzo Tepaltitlán,1591000,111,125,2,2,1,2,10,Muy bueno,Habitacional,Baja,7.602,1.068
+VIV-081,Santa María de las Rosas,2776000,152,211,3,2,1,2,9,Bueno,Habitacional,Baja,2.489,0.26
+VIV-193,San Pablo Autopan,1346000,211,210,4,3,2,2,8,Bueno,Habitacional,Media,11.607,3.982
+VIV-040,Nueva Oxtotitlán,2760000,142,250,5,4,2,3,10,Muy bueno,Habitacional,Media,4.675,0.473
+VIV-067,Cacalomacán,1636000,240,300,6,4,3,3,9,Regular,Habitacional,Baja,9.202,1.182
+VIV-063,Cacalomacán,1604000,291,300,6,4,3,3,11,Bueno,Habitacional,Media,9.5,1.293
+VIV-170,Ocho Cedros,1634000,163,228,4,2,2,2,10,Bueno,Habitacional,Media,3.397,0.745
+VIV-086,Santa María de las Rosas,2229000,114,113,2,1,1,2,8,Muy bueno,Habitacional,Alta,2.704,0.123
+VIV-189,San Pablo Autopan,1496000,173,261,5,3,2,2,8,Bueno,Habitacional,Baja,10.81,5.497
+VIV-038,Nueva Oxtotitlán,2378000,163,209,4,2,2,3,12,Bueno,Habitacional,Baja,5.265,0.713
+VIV-090,San Felipe Tlalmimilolpan,1561000,136,211,4,2,1,2,11,Malo,Habitacional con comercio,Media,7.158,2.964
+VIV-042,Nueva Oxtotitlán,2494000,159,233,4,3,2,3,12,Regular,Habitacional,Baja,5.143,0.794
+VIV-013,San Lorenzo Tepaltitlán,1999000,183,190,4,2,2,2,5,Muy bueno,Habitacional con comercio,Media,7.523,0.934
+VIV-011,San Lorenzo Tepaltitlán,1902000,189,190,3,3,1,2,10,Bueno,Habitacional con comercio,Alta,7.614,0.806
+VIV-046,Nueva Oxtotitlán,2151000,120,165,4,3,2,3,13,Bueno,Habitacional con comercio,Media,5.129,0.929
+VIV-142,Santa Ana Tlapaltitlán,2386000,203,247,4,3,2,3,10,Regular,Habitacional,Media,6.083,1.42
+VIV-151,Capultitlán,1796000,205,212,3,2,1,2,12,Bueno,Habitacional,Alta,3.546,0.283
+VIV-158,Capultitlán,1889000,211,301,4,3,1,2,14,Regular,Habitacional,Media,4.165,1.696
+VIV-007,San Lorenzo Tepaltitlán,2003000,169,190,4,3,1,2,7,Bueno,Habitacional con comercio,Media,7.124,1.038
+VIV-180,Ocho Cedros,1430000,148,163,3,2,2,2,9,Bueno,Habitacional,Media,2.933,0.994
+VIV-131,Santa Ana Tlapaltitlán,2110000,157,152,3,2,2,2,8,Bueno,Habitacional,Alta,5.487,0.806
+VIV-171,Ocho Cedros,1595000,151,197,4,2,2,2,9,Bueno,Habitacional,Alta,3.407,0.529
+VIV-115,Santa Ana Tlapaltitlán,2468000,182,288,4,3,2,3,12,Regular,Habitacional,Media,7.223,2.223
+VIV-091,San Felipe Tlalmimilolpan,1577000,148,223,4,2,1,2,9,Regular,Habitacional con comercio,Media,7.892,2.072
+VIV-199,San Pablo Autopan,1838000,232,325,5,3,2,2,8,Muy bueno,Habitacional,Media,13.246,1.287
+VIV-200,San Pablo Autopan,1433000,217,231,5,3,2,2,9,Bueno,Habitacional,Baja,13.221,5.109
+VIV-122,Santa Ana Tlapaltitlán,2777000,218,300,4,3,2,3,11,Bueno,Habitacional,Alta,5.472,0.345
+VIV-216,San Pablo Autopan,1542000,210,270,5,3,2,2,7,Muy bueno,Habitacional con comercio,Baja,10.419,5.72
+VIV-033,San Lorenzo Tepaltitlán,1796000,139,190,4,2,1,2,11,Bueno,Habitacional con comercio,Media,7.655,1.069
+VIV-144,Capultitlán,1970000,227,320,4,3,1,2,8,Muy bueno,Habitacional,Media,4.043,1.382
+VIV-111,San Cayetano Morelos,1108000,199,287,5,4,2,3,8,Regular,Habitacional con comercio,Media,17.766,1.777
+VIV-026,San Lorenzo Tepaltitlán,1696000,101,143,3,2,1,2,12,Regular,Habitacional,Alta,7.558,0.761
+VIV-103,San Cayetano Morelos,1085000,251,255,5,3,2,2,9,Muy bueno,Habitacional,Media,17.693,0.331
+VIV-169,Ocho Cedros,1478000,161,192,4,3,2,2,9,Regular,Habitacional con comercio,Baja,2.958,1.059
+VIV-196,San Pablo Autopan,1659000,192,265,5,4,2,2,9,Bueno,Habitacional con comercio,Media,12.999,5.233
+VIV-010,San Lorenzo Tepaltitlán,1645000,114,123,3,2,1,2,11,Regular,Habitacional,Media,7.628,1.061
+VIV-106,San Cayetano Morelos,1055000,219,226,4,3,2,2,9,Muy bueno,Habitacional con comercio,Baja,17.693,1.357
+VIV-165,Ocho Cedros,1718000,175,242,4,3,1,2,10,Bueno,Habitacional,Media,3.09,0.658
+VIV-037,Nueva Oxtotitlán,2366000,129,201,3,2,2,3,11,Bueno,Habitacional,Alta,5.577,0.576
+VIV-185,Santiago Tlacotepec,1262000,333,325,5,3,3,2,14,Regular,Habitacional con comercio,Alta,8.275,3.643
+VIV-008,San Lorenzo Tepaltitlán,2011000,186,190,3,2,2,2,6,Regular,Habitacional,Alta,7.359,0.413
+VIV-050,Nueva Oxtotitlán,2631000,169,250,4,4,2,3,13,Bueno,Habitacional con comercio,Alta,5.484,0.101
+VIV-135,Santa Ana Tlapaltitlán,2245000,148,234,4,3,2,3,14,Regular,Habitacional,Alta,7.194,0.486
+VIV-117,Santa Ana Tlapaltitlán,2507000,200,250,4,3,2,2,13,Muy bueno,Habitacional con comercio,Media,7.153,1.353
+VIV-100,San Felipe Tlalmimilolpan,1601000,158,222,3,2,1,2,9,Bueno,Habitacional,Alta,7.33,2.689
+VIV-130,Santa Ana Tlapaltitlán,2306000,144,184,4,2,2,2,12,Bueno,Habitacional,Baja,4.449,2.146
+VIV-078,Santa María de las Rosas,2814000,151,205,3,2,2,2,11,Muy bueno,Habitacional con comercio,Baja,1.671,0.231
+VIV-186,Santiago Tlacotepec,1260000,334,325,5,4,4,2,8,Regular,Habitacional con comercio,Baja,8.68,4.1
+VIV-096,San Felipe Tlalmimilolpan,1714000,153,226,4,2,2,2,11,Bueno,Habitacional con comercio,Media,7.754,1.257
+VIV-060,Cacalomacán,1574000,228,300,6,4,2,2,10,Regular,Habitacional,Media,8.736,1.182
+VIV-211,San Pablo Autopan,1455000,207,229,4,4,2,2,7,Bueno,Habitacional con comercio,Baja,12.096,5.798
+VIV-138,Santa Ana Tlapaltitlán,2617000,196,293,4,3,2,2,13,Bueno,Habitacional,Media,3.773,2.359
+VIV-126,Santa Ana Tlapaltitlán,2128000,137,216,3,2,2,3,12,Bueno,Habitacional,Baja,3.806,2.375
+VIV-062,Cacalomacán,1784000,239,300,6,4,2,3,6,Bueno,Habitacional,Alta,9.684,0.176
+VIV-201,San Pablo Autopan,1944000,266,350,5,4,3,2,10,Muy bueno,Habitacional,Media,10.807,2.578
+VIV-173,Ocho Cedros,1392000,127,180,4,2,1,2,9,Regular,Habitacional con comercio,Baja,3.221,1.009
+VIV-030,San Lorenzo Tepaltitlán,1841000,174,190,3,2,2,2,13,Regular,Habitacional,Alta,7.544,0.52
+VIV-054,Nueva Oxtotitlán,2555000,168,187,3,2,2,2,12,Regular,Habitacional,Alta,5.131,0.229
+VIV-028,San Lorenzo Tepaltitlán,1661000,134,127,2,2,1,2,6,Bueno,Habitacional,Alta,7.888,0.463
+VIV-027,San Lorenzo Tepaltitlán,1938000,133,190,4,2,1,2,8,Muy bueno,Habitacional,Media,7.747,0.964
+VIV-145,Capultitlán,2013000,258,309,4,3,2,2,12,Bueno,Habitacional,Alta,4.896,0.436
+VIV-024,San Lorenzo Tepaltitlán,1771000,156,190,4,2,1,2,10,Bueno,Habitacional,Media,7.51,1.683
+VIV-133,Santa Ana Tlapaltitlán,2818000,206,300,4,3,3,3,8,Regular,Habitacional,Media,4.472,2.56
+VIV-132,Santa Ana Tlapaltitlán,2323000,196,249,4,2,2,2,11,Bueno,Habitacional,Media,7.174,2.169
+VIV-012,San Lorenzo Tepaltitlán,2058000,187,190,3,3,2,2,7,Regular,Habitacional con comercio,Media,6.929,0.807
+VIV-150,Capultitlán,1989000,226,245,4,3,1,2,11,Regular,Habitacional,Media,4.673,0.461
+VIV-074,Cacalomacán,1668000,247,300,5,3,2,3,6,Muy bueno,Habitacional,Alta,8.278,0.101
+VIV-093,San Felipe Tlalmimilolpan,1588000,135,209,4,2,1,2,9,Muy bueno,Habitacional,Media,7.55,2.546
+VIV-215,San Pablo Autopan,1325000,196,230,4,2,2,2,8,Regular,Habitacional,Media,13.388,4.854
+VIV-187,Santiago Tlacotepec,1248000,314,325,5,4,2,2,12,Regular,Habitacional,Media,8.137,4.827
+VIV-036,Nueva Oxtotitlán,2222000,109,173,4,2,2,3,13,Bueno,Habitacional,Media,5.618,0.266
+VIV-061,Cacalomacán,1607000,290,300,6,5,3,2,7,Malo,Habitacional,Baja,9.546,1.473
+VIV-191,San Pablo Autopan,1601000,223,265,4,3,2,2,10,Bueno,Habitacional,Media,11.112,0.769
+VIV-149,Capultitlán,1902000,257,320,4,3,1,2,13,Regular,Habitacional,Baja,4.168,1.441
+VIV-070,Cacalomacán,1747000,251,300,6,4,3,3,6,Muy bueno,Habitacional,Media,8.994,0.567
+VIV-005,San Lorenzo Tepaltitlán,1997000,168,190,3,2,2,2,7,Bueno,Habitacional,Media,7.139,0.507
+VIV-143,Santa Ana Tlapaltitlán,2762000,229,300,4,3,3,2,12,Regular,Habitacional con comercio,Baja,5.327,2.475
+VIV-073,Cacalomacán,1746000,282,300,6,4,3,2,9,Regular,Habitacional,Media,8.298,1.754
+VIV-140,Santa Ana Tlapaltitlán,2524000,169,269,4,3,2,3,13,Bueno,Habitacional,Baja,5.799,1.644
+VIV-022,San Lorenzo Tepaltitlán,1773000,165,190,4,2,2,2,9,Regular,Habitacional con comercio,Media,7.844,0.671
+VIV-148,Capultitlán,2016000,258,283,4,3,2,2,14,Regular,Habitacional,Media,4.588,0.312
+VIV-146,Capultitlán,1942000,237,259,4,3,2,2,11,Bueno,Habitacional,Media,4.967,0.294
+VIV-178,Ocho Cedros,1614000,178,224,4,2,2,2,9,Regular,Habitacional con comercio,Media,3.564,0.475
+VIV-203,San Pablo Autopan,1546000,183,213,4,3,2,2,7,Bueno,Habitacional,Alta,11.882,0.752
+VIV-195,San Pablo Autopan,1647000,251,277,5,3,2,2,8,Regular,Habitacional,Baja,13.056,4.992
+VIV-047,Nueva Oxtotitlán,2463000,156,250,5,3,2,3,13,Malo,Habitacional,Baja,4.887,1.27
+VIV-049,Nueva Oxtotitlán,2335000,140,208,4,2,2,3,11,Bueno,Habitacional,Alta,5.66,0.28
+VIV-166,Ocho Cedros,1700000,179,250,4,4,2,2,10,Regular,Habitacional con comercio,Media,2.638,0.69
+VIV-023,San Lorenzo Tepaltitlán,1834000,168,190,4,2,1,2,13,Bueno,Habitacional,Baja,7.885,1.314
+VIV-154,Capultitlán,1783000,222,259,4,3,1,2,10,Regular,Habitacional,Alta,4.149,0.278
+VIV-205,San Pablo Autopan,1754000,253,350,5,3,3,2,8,Bueno,Habitacional,Baja,10.878,4.771
+VIV-098,San Felipe Tlalmimilolpan,1557000,147,209,3,2,2,2,10,Bueno,Habitacional,Media,8.357,3.112
+VIV-064,Cacalomacán,1367000,205,234,5,2,2,2,7,Regular,Habitacional,Baja,9.408,1.907
+VIV-006,San Lorenzo Tepaltitlán,1968000,173,190,4,2,2,2,12,Regular,Habitacional con comercio,Alta,7.315,0.745
+VIV-123,Santa Ana Tlapaltitlán,2715000,180,268,4,3,2,2,9,Bueno,Habitacional,Media,5.919,1.691
+VIV-157,Capultitlán,1999000,233,285,4,3,2,2,10,Muy bueno,Habitacional,Baja,4.118,1.325
+VIV-114,Santa Ana Tlapaltitlán,2791000,146,298,4,3,2,3,10,Regular,Habitacional,Media,3.742,2.09
+VIV-105,San Cayetano Morelos,1181000,259,320,5,4,2,2,10,Bueno,Habitacional,Media,17.506,0.689
+VIV-053,Nueva Oxtotitlán,2439000,146,181,3,2,2,3,16,Bueno,Habitacional,Media,5.02,0.621
+VIV-120,Santa Ana Tlapaltitlán,2474000,192,300,4,3,2,3,11,Regular,Habitacional,Baja,5.905,2.132
+VIV-003,San Lorenzo Tepaltitlán,1779000,137,156,3,2,2,2,8,Bueno,Habitacional,Media,7.488,1.504
+VIV-092,San Felipe Tlalmimilolpan,1537000,184,223,4,2,1,2,11,Bueno,Habitacional,Baja,8.19,3.655
+VIV-082,Santa María de las Rosas,2424000,114,135,3,1,2,2,10,Bueno,Habitacional,Media,1.863,0.226
+VIV-016,San Lorenzo Tepaltitlán,1756000,178,152,3,2,2,2,9,Bueno,Habitacional,Media,6.899,1.267
+VIV-035,Nueva Oxtotitlán,2361000,167,195,4,2,2,2,10,Regular,Habitacional,Media,5.532,1.127
+VIV-110,San Cayetano Morelos,1171000,277,320,5,4,3,3,10,Regular,Habitacional con comercio,Media,17.651,1.268
+VIV-045,Nueva Oxtotitlán,2246000,133,202,4,2,2,3,14,Malo,Habitacional con comercio,Media,4.887,0.701
+VIV-072,Cacalomacán,1673000,268,300,5,3,3,3,10,Regular,Habitacional,Alta,9.628,0.679
+VIV-188,Santiago Tlacotepec,1280000,299,325,5,4,3,2,14,Muy bueno,Habitacional,Alta,8.176,3.446
+VIV-207,San Pablo Autopan,1692000,225,282,5,4,2,2,7,Bueno,Habitacional,Media,13.107,2.296
+VIV-204,San Pablo Autopan,1420000,229,266,5,3,2,2,9,Bueno,Habitacional con comercio,Baja,11.83,6.291
+VIV-163,Capultitlán,2145000,272,287,4,3,2,2,10,Malo,Habitacional,Media,3.663,0.474
+VIV-147,Capultitlán,1764000,212,270,4,3,1,2,14,Bueno,Habitacional con comercio,Media,3.951,0.935
+VIV-156,Capultitlán,1747000,203,210,4,3,1,2,8,Bueno,Habitacional,Media,4.624,1.875
+VIV-209,San Pablo Autopan,1541000,223,243,3,3,2,2,9,Bueno,Habitacional,Alta,13.28,1.186
+VIV-087,San Felipe Tlalmimilolpan,1466000,160,185,3,1,2,2,10,Bueno,Habitacional con comercio,Baja,8.383,3.698
+VIV-102,San Cayetano Morelos,1192000,232,320,5,4,2,3,11,Bueno,Habitacional con comercio,Alta,17.599,0.389
+VIV-083,Santa María de las Rosas,2830000,160,216,3,2,2,2,8,Bueno,Habitacional,Alta,1.605,0.162
+VIV-069,Cacalomacán,1566000,254,300,6,4,3,3,6,Bueno,Habitacional,Media,8.357,1.777
+VIV-104,San Cayetano Morelos,1084000,213,285,5,4,2,2,11,Regular,Habitacional,Media,17.442,0.769
+VIV-141,Santa Ana Tlapaltitlán,2732000,172,241,4,3,2,2,10,Regular,Habitacional,Alta,4.556,1.084
+VIV-113,Santa Ana Tlapaltitlán,2231000,171,243,4,2,2,3,16,Bueno,Habitacional,Media,3.466,0.911
+VIV-021,San Lorenzo Tepaltitlán,1723000,144,151,2,2,2,2,8,Malo,Habitacional,Media,7.517,0.91
+VIV-014,San Lorenzo Tepaltitlán,1771000,171,185,3,2,1,2,11,Regular,Habitacional,Media,7.335,1.624
+VIV-137,Santa Ana Tlapaltitlán,2840000,198,300,4,3,2,3,10,Bueno,Habitacional,Alta,5.294,0.373
+VIV-134,Santa Ana Tlapaltitlán,2520000,219,300,4,3,2,3,15,Regular,Habitacional,Media,7.527,2.012
+VIV-017,San Lorenzo Tepaltitlán,2065000,144,190,4,3,1,2,12,Bueno,Habitacional,Media,7.292,1.333
+VIV-015,San Lorenzo Tepaltitlán,1806000,124,149,3,2,2,2,8,Muy bueno,Habitacional con comercio,Alta,7.36,0.361
+VIV-068,Cacalomacán,1481000,182,268,5,3,2,2,7,Regular,Habitacional,Media,8.908,0.728
+VIV-031,San Lorenzo Tepaltitlán,1827000,159,146,3,2,2,2,13,Bueno,Habitacional,Alta,7.039,0.594
+VIV-076,Santa María de las Rosas,2533000,129,148,3,1,1,2,9,Malo,Habitacional con comercio,Alta,1.9,0.084
+VIV-112,Santa Ana Tlapaltitlán,2336000,144,213,4,3,2,2,10,Regular,Habitacional,Alta,4.65,0.566
+VIV-181,Santiago Tlacotepec,1283000,262,325,5,4,2,2,14,Regular,Habitacional con comercio,Media,7.967,3.92
+VIV-121,Santa Ana Tlapaltitlán,2599000,238,300,4,3,3,3,12,Bueno,Habitacional,Media,4.201,1.231
+VIV-002,San Lorenzo Tepaltitlán,1670000,110,153,2,2,1,2,7,Regular,Habitacional,Baja,7.376,1.495
+VIV-164,Ocho Cedros,1494000,151,196,4,2,1,2,10,Bueno,Habitacional,Media,3.037,0.726
+VIV-155,Capultitlán,2030000,234,320,4,3,1,2,12,Bueno,Habitacional,Media,4.14,1.661
+VIV-071,Cacalomacán,1768000,289,300,6,4,4,2,8,Malo,Habitacional,Alta,8.642,0.653
+VIV-159,Capultitlán,1868000,234,259,4,3,1,2,12,Bueno,Habitacional,Baja,4.579,1.724
+VIV-080,Santa María de las Rosas,2574000,101,163,3,2,2,2,8,Bueno,Habitacional con comercio,Media,2.382,0.047
+VIV-039,Nueva Oxtotitlán,2541000,166,219,3,3,3,3,12,Bueno,Habitacional,Media,4.731,0.514
+VIV-212,San Pablo Autopan,1633000,208,268,5,2,2,2,8,Bueno,Habitacional,Alta,11.022,1.056
+VIV-184,Santiago Tlacotepec,1180000,334,228,3,3,3,1,8,Regular,Habitacional,Media,8.517,3.201
+VIV-099,San Felipe Tlalmimilolpan,1559000,161,192,3,2,1,2,8,Bueno,Habitacional,Alta,7.303,1.594
+VIV-198,San Pablo Autopan,1476000,187,234,5,3,2,2,8,Muy bueno,Habitacional,Media,12.018,6.28
+VIV-129,Santa Ana Tlapaltitlán,1933000,176,170,3,2,2,2,14,Regular,Habitacional,Media,6.983,0.94
+VIV-108,San Cayetano Morelos,1151000,242,320,5,3,3,3,10,Regular,Habitacional con comercio,Media,17.223,1.2
+VIV-116,Santa Ana Tlapaltitlán,2206000,148,150,4,3,2,2,11,Regular,Habitacional con comercio,Media,5.54,2.181
+VIV-057,Cacalomacán,1584000,200,300,5,4,2,3,6,Regular,Habitacional,Alta,9.554,0.344
+VIV-168,Ocho Cedros,1557000,148,234,3,2,1,2,10,Bueno,Habitacional,Media,3.362,0.423
+VIV-202,San Pablo Autopan,1336000,223,225,3,2,2,2,8,Regular,Habitacional con comercio,Media,11.09,6.081
+VIV-214,San Pablo Autopan,1463000,161,249,4,2,2,2,8,Malo,Habitacional,Media,11.624,3.876
+VIV-001,San Lorenzo Tepaltitlán,1964000,174,188,4,3,2,2,10,Bueno,Habitacional con comercio,Media,7.024,0.505
+VIV-025,San Lorenzo Tepaltitlán,1906000,202,190,2,2,2,2,5,Bueno,Habitacional,Media,6.841,1.539
+VIV-107,San Cayetano Morelos,1053000,243,320,5,3,2,3,10,Muy bueno,Habitacional,Media,17.86,1.339
+VIV-174,Ocho Cedros,1631000,160,231,4,3,1,2,11,Bueno,Habitacional con comercio,Baja,2.904,0.721
+VIV-065,Cacalomacán,1680000,230,300,6,4,2,3,8,Regular,Habitacional,Media,8.923,1.154
+VIV-153,Capultitlán,1691000,220,212,4,2,2,2,11,Muy bueno,Habitacional con comercio,Baja,4.325,1.61
+VIV-052,Nueva Oxtotitlán,2641000,182,250,5,3,3,3,15,Bueno,Habitacional,Media,5.687,0.879
+VIV-018,San Lorenzo Tepaltitlán,1740000,128,190,3,2,1,2,9,Regular,Habitacional con comercio,Baja,7.656,1.42
+VIV-125,Santa Ana Tlapaltitlán,2793000,199,300,4,3,2,3,8,Bueno,Habitacional,Baja,6.556,2.089
+VIV-077,Santa María de las Rosas,2616000,150,152,3,2,1,2,12,Muy bueno,Habitacional con comercio,Media,2.256,0.163
+VIV-048,Nueva Oxtotitlán,2614000,162,250,5,4,2,3,12,Regular,Habitacional,Media,4.964,0.263
+VIV-194,San Pablo Autopan,1476000,185,238,5,3,2,2,9,Regular,Habitacional,Media,12.238,1.94
+VIV-213,San Pablo Autopan,1651000,184,245,5,2,2,2,7,Bueno,Habitacional,Media,10.318,3.616
+VIV-167,Ocho Cedros,1563000,165,185,4,3,2,2,10,Regular,Habitacional con comercio,Alta,3.193,0.369
+VIV-085,Santa María de las Rosas,2665000,144,210,3,2,2,2,8,Bueno,Habitacional,Baja,2.36,0.391
+VIV-160,Capultitlán,2136000,245,320,4,3,1,2,12,Muy bueno,Habitacional con comercio,Media,3.902,0.609
+VIV-066,Cacalomacán,1740000,231,300,5,4,3,2,5,Muy bueno,Habitacional,Baja,8.437,1.29
+VIV-124,Santa Ana Tlapaltitlán,2602000,197,280,4,3,2,3,11,Bueno,Habitacional con comercio,Baja,6.21,2.518
+VIV-192,San Pablo Autopan,1338000,215,211,4,4,2,2,9,Malo,Habitacional,Baja,11.587,4.952
+VIV-034,San Lorenzo Tepaltitlán,1929000,192,187,3,2,2,2,10,Bueno,Habitacional con comercio,Baja,7.536,1.098
+VIV-009,San Lorenzo Tepaltitlán,1965000,196,190,3,2,1,2,9,Muy bueno,Habitacional,Media,7.474,0.76
+VIV-019,San Lorenzo Tepaltitlán,1977000,174,190,3,2,2,2,8,Bueno,Habitacional,Media,7.328,0.799
+VIV-136,Santa Ana Tlapaltitlán,2726000,220,276,4,3,2,2,14,Bueno,Habitacional,Media,4.944,0.401
+VIV-119,Santa Ana Tlapaltitlán,2614000,174,300,4,3,2,3,12,Bueno,Habitacional,Media,5.916,1.821
+VIV-059,Cacalomacán,1727000,242,300,5,4,3,3,6,Muy bueno,Habitacional,Alta,9.386,0.315
+VIV-162,Capultitlán,2090000,266,320,4,3,2,2,11,Muy bueno,Habitacional,Baja,3.929,1.854
+VIV-044,Nueva Oxtotitlán,2852000,172,210,4,3,3,3,11,Bueno,Habitacional,Alta,5.181,0.191
+VIV-139,Santa Ana Tlapaltitlán,2448000,195,300,4,3,2,3,11,Regular,Habitacional,Media,6.507,2.185
+VIV-182,Santiago Tlacotepec,1314000,361,317,5,4,3,1,8,Regular,Habitacional,Media,7.809,4.054
+VIV-089,San Felipe Tlalmimilolpan,1547000,176,250,4,2,1,2,13,Bueno,Habitacional,Alta,8.406,2.03
+VIV-172,Ocho Cedros,1441000,158,164,3,2,1,2,10,Malo,Habitacional con comercio,Media,2.749,0.61
+VIV-084,Santa María de las Rosas,2592000,125,169,3,2,1,2,9,Regular,Habitacional,Media,2.623,0.038
+VIV-041,Nueva Oxtotitlán,2214000,130,164,3,2,1,2,11,Muy bueno,Habitacional,Baja,4.753,1.048
+VIV-055,Nueva Oxtotitlán,2603000,138,250,4,2,2,3,12,Bueno,Habitacional,Baja,5.291,1.167
+VIV-208,San Pablo Autopan,1198000,178,200,3,2,2,2,8,Bueno,Habitacional,Baja,11.416,5.294
